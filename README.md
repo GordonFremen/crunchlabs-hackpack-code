@@ -18,6 +18,7 @@ The original source is copyright © 2024–2025 Crunchlabs LLC and is redistribu
 | **LabelMaker** | stock, sketch, mrlogo, lightdriver |
 | **LaserTag** | stock, lights, ammo |
 | **OmnibotForklift** | StockCode, AdvancedSwagDrive, Gyro |
+| **RobotRanger** | StockCode |
 | **RoboLamp** | StockCode, FastLED, Pomodoro, Sun, Remote |
 | **SandGarden** | stock, sandtimer, liveinput |
 | **StringPlottingRobot** | StockCode, EtchASketch, TicTacToe |
