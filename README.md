@@ -29,7 +29,7 @@ The original source is copyright © 2024–2025 Crunchlabs LLC and is redistribu
 
 ## Directory Structure
 
-Projects originally built with PlatformIO (ColorComposer, RoboLamp, TankPlant) keep their native structure and can be opened directly in VS Code + PlatformIO IDE.
+Projects originally built with PlatformIO (ColorComposer, RobotRanger, RoboLamp, TankPlant) keep their native structure and can be opened directly in VS Code + PlatformIO IDE.
 
 All other projects support both IDEs and are laid out as follows:
 
