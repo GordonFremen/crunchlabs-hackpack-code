@@ -90,7 +90,7 @@ Arduino IDE automatically generates forward declarations for all functions in `.
 This repository tracks the source code published through the CrunchLabs Hack Pack IDE. Accordingly:
 
 - **Bug reports and corrections** — please [file an issue](../../issues). If something doesn't compile or a library mapping is wrong, we want to know.
-- **New Hack Pack projects** — if CrunchLabs releases a new product and its source becomes available in the IDE, please file an issue and we'll add it.
+- **New Hack Pack projects** — if CrunchLabs releases a new product and its source becomes available in the IDE and/or repository, please file an issue and we'll add it.
 - **New features or modifications to the sketches** — this repository will not accept these. The code here should reflect what CrunchLabs ships; changes belong in your own fork.
 
 ---
