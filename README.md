@@ -1,6 +1,6 @@
 # CrunchLabs Hack Pack — Arduino Source Code
 
-This repository contains the Arduino source code for all [CrunchLabs Hack Pack](https://www.crunchlabs.com) projects, extracted from the [Hack Pack IDE](https://ide.crunchlabs.com) and organized for use with both **PlatformIO** and **Arduino IDE**.
+This repository contains the Arduino source code for all [CrunchLabs Hack Pack](https://www.crunchlabs.com) projects, extracted from the [Hack Pack IDE](https://ide.crunchlabs.com) and official [Hack Pack repository](https://github.com/HackPackOfficial/HackPack-Code) and organized for use with both **PlatformIO** and **Arduino IDE**.
 
 The original source is copyright © 2024–2025 Crunchlabs LLC and is redistributed here under the MIT License included in this repository. See [LICENSE](LICENSE) for full details.
 
