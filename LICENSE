@@ -1,6 +1,20 @@
 MIT License
 
-Copyright (c) 2026 Mike Okola
+The Arduino sketches and source files in this repository are:
+
+Copyright (c) 2024-2025 Crunchlabs LLC
+
+The following files are original additions made to enable compilation outside
+the CrunchLabs web IDE, and are:
+
+Copyright (c) 2026 Michael Okola
+
+  - CardDealingBot/NHY3274TH.h (and copies in CardDealingBot/*/platformio/src/)
+  - BalanceBot/*/platformio/src/PID_v1_bc.h
+  - Forward declarations added to:
+      BalanceBot/obstacle_avoidance/platformio/src/obstacle_avoidance.ino
+      BalanceBot/remote_control/platformio/src/remote_control.ino
+      BalanceBot/servo/platformio/src/servo.ino
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +33,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+Third-party code attribution:
+
+- ADCTouch (TankPlant/SnakeGame/src/ADCTouch.*)
+  Copyright (c) 2022 Martin Pittermann
+
+- IRremote library portions (CardDealingBot sketches)
+  Copyright (c) 2020-2022 Armin Joachimsmeyer
+
+- I2Cdev / MPU6050 IMU Zero calibration sketch (BalanceBot/IMU_Zero/)
+  Copyright (c) 2011 Jeff Rowberg
+
+- Mozzi audio synthesis library (Synthesizer sketches)
+  By Tim Barrass and Contributors.
+  https://github.com/sensorium/Mozzi
+
+Note: The Synthesizer sketches inherit the Mozzi library license. See the
+Mozzi repository for full license details.
